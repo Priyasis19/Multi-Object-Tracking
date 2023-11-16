@@ -25,6 +25,11 @@ The Hungarian model, also known as the Hungarian algorithm, is a combinatorial o
 - Implementation: [Link to Hungarian Java code](/javaTrack_Hungarian/)
 - Usage: Detailed usage instructions for the Hungarian model can be found in the `javaTrack_Harrcascase/README.md` file.
 
+## Project Report
+
+[Multi Object Tracking.pdf](https://github.com/ShauryaChatterjee02/Multi-Object-Tracking/files/13379074/Multi.Object.Tracking.pdf)
+Brief description: The project report PDF offers a comprehensive overview and detailed information on the Multi-Object Tracking project.
+
 ## Getting Started
 
 To use these object tracking models in your Java project, follow the instructions provided in each model's respective README file. You may need to install additional dependencies, provide trained models, or specify input and output configurations based on your specific use case.
@@ -32,5 +37,4 @@ To use these object tracking models in your Java project, follow the instruction
 ## Contributing
 
 We welcome contributions from the open-source community. If you want to contribute.
-
 
