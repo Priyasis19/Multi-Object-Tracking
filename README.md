@@ -31,6 +31,12 @@ Multi Object Tracking: [Multi Object Tracking.pdf](https://github.com/ShauryaCha
 
 Brief description: The project report PDF offers a comprehensive overview and detailed information on the Multi-Object Tracking project.
 
+## Project PPT
+
+Multi Objec Tracking PPT: 
+
+Brief description: This Presentation is presenting a  comprehensive overview and detailed information on our project Multi-Object Tracking project.
+
 ## Getting Started
 
 To use these object tracking models in your Java project, follow the instructions provided in each model's respective README file. You may need to install additional dependencies, provide trained models, or specify input and output configurations based on your specific use case.
