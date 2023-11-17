@@ -27,7 +27,7 @@ The Hungarian model, also known as the Hungarian algorithm, is a combinatorial o
 
 ## Project Report
 
-Multi Object Tracking: [Multi Object Tracking.pdf](https://github.com/ShauryaChatterjee02/Multi-Object-Tracking/files/13389054/Multi.Object.Tracking.pdf)
+Multi Object Tracking: 
 
 Brief description: The project report PDF offers a comprehensive overview and detailed information on the Multi-Object Tracking project.
 
