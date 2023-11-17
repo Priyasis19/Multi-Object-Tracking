@@ -33,7 +33,8 @@ Brief description: The project report PDF offers a comprehensive overview and de
 
 ## Project PPT
 
-Multi Objec Tracking PPT: 
+Multi Objec Tracking PPT: [JavaPresentation.pptx](https://github.com/ShauryaChatterjee02/Multi-Object-Tracking/files/13390971/JavaPresentation.pptx)
+
 
 Brief description: This Presentation is presenting a  comprehensive overview and detailed information on our project Multi-Object Tracking project.
 
